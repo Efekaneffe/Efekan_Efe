@@ -20,7 +20,7 @@ Incoming **Computer Science** student at the **University of Surrey** with a str
 * HTML (In progress)
 
 ##   Developer Tools 🧰
-* GitHub*
+* GitHub
 *  VSCode
 * Spyder 6
 
